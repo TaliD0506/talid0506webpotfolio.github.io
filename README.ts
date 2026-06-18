@@ -2,7 +2,7 @@
 This is a professional portfolio website created for the knowme Website Developer & Designer position application. The portfolio showcases Talifhani Davhana's skills, projects, and qualifications as a BSc Computer Science graduate with startup experience.
 
 ## Live Demo
-[Add your deployed URL here]
+https://talid0506.github.io/talid0506webpotfolio.github.io/index.html
 
 ## Features
 - **Responsive Design**: Works on all devices (mobile, tablet, desktop)
